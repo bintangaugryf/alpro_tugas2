@@ -1,1 +1,5 @@
 # alpro_tugas2
+
+    NAMA  : BINTANG AUGRI FARIS
+    NIM   : I.2210458
+    PRODI : ILMU KOMPUTER
